@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-24T12:58:23.638Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.3510742187500004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-24T12:58:29.717Z",
+      "notes": "",
+      "position": {
+        "lat": "51.50874245880335",
+        "lng": "-0.13183593750000003"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-09-24T12:58:36.354Z",
+      "notes": "",
+      "position": {
+        "lat": "53.330872983017066",
+        "lng": "-6.240234375"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (the)",
+      "emoji": "🇳🇱",
+      "date": "2023-09-24T12:58:51.385Z",
+      "notes": "",
+      "position": {
+        "lat": "52.3688917060255",
+        "lng": "4.894409179687501"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Koln",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-09-24T12:59:14.060Z",
+      "notes": "",
+      "position": {
+        "lat": "50.93073802371819",
+        "lng": "6.96533203125"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-09-24T12:59:31.065Z",
+      "notes": "",
+      "position": {
+        "lat": "41.89001042401827",
+        "lng": "12.48321533203125"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Portlaoise",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-09-24T13:21:04.928Z",
+      "notes": "",
+      "position": {
+        "lat": "53.037503780588146",
+        "lng": "-7.3220980167388925"
+      },
+      "id": 98443204
+    }
+  ]
+}
